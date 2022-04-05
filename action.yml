@@ -2,7 +2,7 @@ name: 'Hello World -- miguelemosreverte'
 label: "activity"
 color: "gray-dark"
 branding:
-  label: "activity"
+  label: "airplay"
   color: "gray-dark"
 description: 'Greet someone and record the time'
 inputs:

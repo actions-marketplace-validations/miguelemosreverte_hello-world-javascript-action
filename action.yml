@@ -1,6 +1,9 @@
 name: 'Hello World -- miguelemosreverte'
 label: "activity"
 color: "gray-dark"
+branding:
+  label: "activity"
+  color: "gray-dark"
 description: 'Greet someone and record the time'
 inputs:
   who-to-greet:  # id of input
